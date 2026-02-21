@@ -12,7 +12,7 @@ A diferencia de un simple archivo de texto, este sistema implementa:
 * **Estructura JSON Segura:** Los datos se almacenan en un archivo `.json`, pero todo el contenido sensible (usuario y contraseña) está cifrado en formato Base64.
 
 ## 🛠️ Tecnologías Utilizadas
-* **Python 3.x:** Lenguaje principal.
+* **Python 3.12:** Lenguaje principal.
 * **Tkinter:** Para la interfaz gráfica de usuario (GUI).
 * **Fernet (Criptografía):** Motor de cifrado y descifrado.
 * **JSON:** Almacenamiento de datos estructurado.
